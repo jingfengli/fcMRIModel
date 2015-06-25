@@ -1,4 +1,13 @@
 # -*- coding: utf-8 -*-
+#
+# Simulate BOLD signal based on local neural activity
+#
+################################################################# 	
+#################################################################
+# balloon-windkessel model in Friston KJ, Harrison L, & Penny W
+# (2003) Dynamic causal modelling. NeuroImage 19(4):1273-1302
+#################################################################
+
 import numpy 
 import scipy
 from scipy.io import loadmat
