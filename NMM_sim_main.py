@@ -1,4 +1,13 @@
 # -*- coding: utf-8 -*-
+# Main function for the model
+#### Setting up the duration of the simulation. 
+#### Connectivity strength is set in 'Sim_variables.py'
+##########################################################################
+##########################################################################
+# Honey CJ, Kotter R, Breakspear M, & Sporns O (2007) Network structure of 
+# cerebral cortex shapes functional connectivity on multiple time scales. 
+# PNAS, 104(24):10240-10245.
+##########################################################################
 import time
 import os
 import numpy as np
