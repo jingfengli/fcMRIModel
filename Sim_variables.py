@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-
+# Setting up environmental variables
+# Setting up the connectivity strength 'c'
+#
 import scipy.io as spy
 
 #CIJ = spy.loadmat('/Users/jingfengli/Work/fcmodel/macaque47.mat')

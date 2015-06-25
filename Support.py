@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Reorder results for visualization
+#
 import scipy 
 import numpy
 from Sim_variables import OrderIndex

@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
+# Setting ODES for simulating local neural activity
+
 import numpy
 from Sim_variables import *
 from scipy.io import loadmat
 from Support import gain
 
-CIJ = loadmat('/Users/jingfengli/Work/fcmodel/macaque47.mat')
+CIJ = loadmat('./macaque47.mat')
 CM = CIJ['CIJ']
 k_in = numpy.sum(CM*1.0,axis=0)    
 

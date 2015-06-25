@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Simulate BOLD based on local neural activity 
+#
 import numpy
 import scipy
 from scipy.io import savemat

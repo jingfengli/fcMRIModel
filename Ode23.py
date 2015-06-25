@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
+# rk methods
+
 """A variety of methods to solve first order ordinary differential equations.
 
 AUTHOR:

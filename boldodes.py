@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Simulate BOLD signal based on local neural activity
+# BOLD ODE functions
 #
 ################################################################# 	
 #################################################################
